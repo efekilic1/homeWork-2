@@ -1,6 +1,6 @@
 # homeWork-2
 Koleksiyonlarla ilgili algoritma soruları
-
+www.patika.dev
 
 Ödev - 2
 Aşağıdaki 3 soruyu ayrı ayrı console uygulamaları açarak yazınız. Koleksiyonlar-Soru-1, Koleksiyonlar-Soru-2, Koleksiyonlar-Soru-3 isimlerini kullanınız.
