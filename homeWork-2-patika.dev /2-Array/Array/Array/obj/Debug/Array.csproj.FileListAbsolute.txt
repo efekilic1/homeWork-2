@@ -1,0 +1,6 @@
+/Users/muhammedkilic/Projects/homeWork-2-patika.dev /2-Array/Array/Array/bin/Debug/Array.exe
+/Users/muhammedkilic/Projects/homeWork-2-patika.dev /2-Array/Array/Array/bin/Debug/Array.pdb
+/Users/muhammedkilic/Projects/homeWork-2-patika.dev /2-Array/Array/Array/obj/Debug/Array.csproj.AssemblyReference.cache
+/Users/muhammedkilic/Projects/homeWork-2-patika.dev /2-Array/Array/Array/obj/Debug/Array.csproj.CoreCompileInputs.cache
+/Users/muhammedkilic/Projects/homeWork-2-patika.dev /2-Array/Array/Array/obj/Debug/Array.exe
+/Users/muhammedkilic/Projects/homeWork-2-patika.dev /2-Array/Array/Array/obj/Debug/Array.pdb

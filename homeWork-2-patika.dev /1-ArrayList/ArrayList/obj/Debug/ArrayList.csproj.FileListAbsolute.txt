@@ -1,0 +1,6 @@
+/Users/muhammedkilic/Projects/ArrayList/ArrayList/obj/Debug/ArrayList.csproj.AssemblyReference.cache
+/Users/muhammedkilic/Projects/ArrayList/ArrayList/obj/Debug/ArrayList.csproj.CoreCompileInputs.cache
+/Users/muhammedkilic/Projects/ArrayList/ArrayList/bin/Debug/ArrayList.exe
+/Users/muhammedkilic/Projects/ArrayList/ArrayList/bin/Debug/ArrayList.pdb
+/Users/muhammedkilic/Projects/ArrayList/ArrayList/obj/Debug/ArrayList.exe
+/Users/muhammedkilic/Projects/ArrayList/ArrayList/obj/Debug/ArrayList.pdb

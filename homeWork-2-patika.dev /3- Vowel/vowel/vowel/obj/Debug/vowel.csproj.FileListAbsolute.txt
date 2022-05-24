@@ -1,0 +1,6 @@
+/Users/muhammedkilic/Projects/homeWork-2-patika.dev /3- Vowel/vowel/vowel/bin/Debug/vowel.exe
+/Users/muhammedkilic/Projects/homeWork-2-patika.dev /3- Vowel/vowel/vowel/bin/Debug/vowel.pdb
+/Users/muhammedkilic/Projects/homeWork-2-patika.dev /3- Vowel/vowel/vowel/obj/Debug/vowel.csproj.AssemblyReference.cache
+/Users/muhammedkilic/Projects/homeWork-2-patika.dev /3- Vowel/vowel/vowel/obj/Debug/vowel.csproj.CoreCompileInputs.cache
+/Users/muhammedkilic/Projects/homeWork-2-patika.dev /3- Vowel/vowel/vowel/obj/Debug/vowel.exe
+/Users/muhammedkilic/Projects/homeWork-2-patika.dev /3- Vowel/vowel/vowel/obj/Debug/vowel.pdb
