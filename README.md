@@ -16,11 +16,15 @@ Soru - 3: Klavyeden girilen cümle içerisindeki sesli harfleri bir dizi içeris
 
 
 
-<img width="1122" alt="Ekran Resmi 2022-05-24 13 59 33" src="https://user-images.githubusercontent.com/105243448/170035425-98af13c6-688f-4526-adf8-24e58a325760.png">
 
-<img width="567" alt="Ekran Resmi 2022-05-24 14 02 32" src="https://user-images.githubusercontent.com/105243448/170035440-1994c568-1c94-4cb3-8fe0-55962b740ed4.png">
+<img width="547" alt="Ekran Resmi 2022-05-24 13 11 04" src="https://user-images.githubusercontent.com/105243448/170035954-44f83b3d-5171-440f-82de-7ccb9b6d33c2.png">
 
-<img width="679" alt="Ekran Resmi 2022-05-24 15 31 17" src="https://user-images.githubusercontent.com/105243448/170035459-221251f5-851d-4f9f-8346-ea3d5b0cdb3d.png">
+
+<img width="567" alt="Ekran Resmi 2022-05-24 14 02 32" src="https://user-images.githubusercontent.com/105243448/170035977-9dfeddfa-2781-4ba3-b78a-d62aebbedc6f.png">
+
+
+
+<img width="679" alt="Ekran Resmi 2022-05-24 15 31 17" src="https://user-images.githubusercontent.com/105243448/170035988-cb45ce7a-587f-45b3-a44f-7edbdd6149e5.png">
 
 
 
